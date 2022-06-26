@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/face_mask_detector/static/css/main.42994be3.css",
+    "main.js": "/face_mask_detector/static/js/main.9b35a376.js",
+    "static/media/img2.jpg": "/face_mask_detector/static/media/img2.47e1860ef2fe2db289b1.jpg",
+    "static/media/x.png": "/face_mask_detector/static/media/x.c2196a9c662edcb139e2.png",
+    "index.html": "/face_mask_detector/index.html",
+    "main.42994be3.css.map": "/face_mask_detector/static/css/main.42994be3.css.map",
+    "main.9b35a376.js.map": "/face_mask_detector/static/js/main.9b35a376.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42994be3.css",
+    "static/js/main.9b35a376.js"
+  ]
+}
